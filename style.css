@@ -71,8 +71,6 @@ body {
   background-color: #02a37e;
 }
 
-
-
 .pricing-content{
   display: flex;
   flex-direction: row;
@@ -139,20 +137,6 @@ body {
   background-color: #f9fdfd;
   box-shadow: 1px 1px 30px #8f9097;
   border-radius: 4px;
-}
-
-.ribbon {
-  position: relative;
-  top: 0px;
-  bottom: 10px;
-  left: 140px;
-  background: #18a558;
-  color: white;
-  padding: 8px 15px;
-  font-size: 10px;
-  font-weight: bold;
-  width: 130px;
-  transform: rotate(40deg);
 }
 
 .head{
